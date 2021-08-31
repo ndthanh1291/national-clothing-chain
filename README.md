@@ -7,7 +7,9 @@ An online national clothing chain needs creating a targeted marketing campaign. 
 
 # Analysis from Data
   The correlation coefficient between sales and income is 0.78 suggest there is a strong correlation between two values and the graph show it’s positive. We can use sales to predict incomes. 
+  
   The correlation coefficient between customer ratings and product return rate is 0.69 suggest there is a correlation and the graph show it’s negative. Which mean the higher rating, the lower return rate will be.
+  
   The product should be advertised the most is Sweater Cotton because it’s the most suitable to the most popular income category.
   
  # Additional Analysis
