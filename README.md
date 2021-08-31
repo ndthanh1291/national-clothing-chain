@@ -1,6 +1,6 @@
 # National Clothing Chain
 # Overview
-An online national clothing chain needs your help creating a targeted marketing campaign. They have three products:Shirt: $25, Sweater: $100, Leather Bag: $1,000 that need to be advertised to a target group.
+An online national clothing chain needs creating a targeted marketing campaign. They have three products:Shirt: $25, Sweater: $100, Leather Bag: $1,000 that need to be advertised to a target group. 
 
 # Predict Customer Incomes
 ![image](https://user-images.githubusercontent.com/30688919/131438693-fd7f7ebb-583e-4a7c-9e5c-865607cbea33.png)
@@ -18,12 +18,14 @@ can introduce our products.
  
  # Final Recommendation
   ![image](https://user-images.githubusercontent.com/30688919/131438890-0a85868f-a26f-47d2-9a84-70cb7af680eb.png)
+  
   By looking at Population by State, we can focus our market in California, Texas, Florida and New York. 
   
   ![image](https://user-images.githubusercontent.com/30688919/131438912-3fc4ba9f-120a-4812-8d06-bd145dee0510.png)
+  
   California has the highest sales and average income is $106,269 which recommend products is Sweater Cotton ($100). Also the average temperature is 59.4 F making it a suitable choice.
-	Florida ($86.034)  and Texas ($91.769) has lower average income and high average temperature making T-Shirt Spring its recommend product.
-	Leather Bag ($1000) is a high class product can be recommend in both California and Texas because they have high average sales and average incomes.
+  Florida ($86.034)  and Texas ($91.769) has lower average income and high average temperature making T-Shirt Spring its recommend product.
+  Leather Bag ($1000) is a high class product can be recommend in both California and Texas because they have high average sales and average incomes.
 
   ![image](https://user-images.githubusercontent.com/30688919/131438942-f8fc37d5-f67b-4803-89ec-cb8a0572fde0.png)
 
